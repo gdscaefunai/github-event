@@ -1,0 +1,3 @@
+# Intro to Version Control | Git and Github
+
+This repo was used for the hands-on-practical session during the "Intro to Version Control | Git and Github" event by [DSC AE-FUNAI](https://dsc.community.dev/federal-university-ndufu-alike-ikwo-funai/), [DSC FULOKOJA](https://dsc.community.dev/federal-university-lokoja-kogi-state/), [DSC FUTO](https://dsc.community.dev/federal-university-of-technology-owerri/), [DSC MUBS](https://dsc.community.dev/makerere-university-business-school/), [DSC Nekede](https://dsc.community.dev/federal-polytechnic-nekede/) and [DSC UICT](https://dsc.community.dev/uganda-institute-of-information-and-communications-technology/).
