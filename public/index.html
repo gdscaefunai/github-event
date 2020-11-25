@@ -50,28 +50,30 @@
   </head>
   <body>
     <header>
-      <a
-        href="https://g.co/dev/dsc"
-        title="Developer Student Clubs"
-        class="header__logo-link"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <img
-          class="header__image"
-          src="/assets/images/logo-vertical.png"
-          alt="DSC logo"
-        />
-        <img
-          class="header__image"
-          src="/assets/images/logo-horizontal.png"
-          alt="DSC logo"
-        />
-      </a>
+      <div class="header__logo">
+        <a
+          href="https://g.co/dev/dsc"
+          title="Developer Student Clubs"
+          class="header__logo-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            class="header__logo-image"
+            src="/assets/images/logo-vertical.png"
+            alt="DSC logo"
+          />
+          <img
+            class="header__logo-image"
+            src="/assets/images/logo-horizontal.png"
+            alt="DSC logo"
+          />
+        </a>
+      </div>
       <img
         src="/assets/images/flyer.jpg"
         alt="Event Flyer"
-        class="header__image header__image--flyer"
+        class="header__flyer-image"
       />
       <h1 class="header__heading-text">
         Intro to Version Control | Git and GitHub
@@ -160,6 +162,7 @@
           Those who sent Pull Requests during the Event
         </p>
       </div>
+      <div class="attendees__intro-shadow"></div>
       <div class="attendees"></div>
     </main>
     <script src="/assets/scripts/app.js"></script>
