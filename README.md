@@ -29,7 +29,7 @@ Having attended the event at https://youtu.be/ZVtSKBNxnAc, send your pull reques
 
 4. Scroll to the end of the `attendees.json` file, add a comma - **,** - immediately after the last closing brace - **}** -, and press the enter key.
 
-5. On sthe new line, paste the sample you just copied.
+5. On the new line, paste the sample you just copied.
 
 6. Edit the values with yours, please verify that they are correct. `name` and `dsc` are compulsory.  
 
