@@ -15,21 +15,12 @@ const appendAttendee = (attendee) => {
   section.classList.add('attendee');
   section.innerHTML = `<h3 class="attendee__name">${attendee.name}</h3>
   <p class="attendee__dsc">DSC ${attendee.dsc}</p>`;
-  section.innerHTML += attendee.phone
-    ? attendeeLink(`tel:${attendee.phone}`, 'phone')
-    : '';
-  section.innerHTML += attendee.email
-    ? attendeeLink(`mailto:${attendee.email}`, 'email')
-    : '';
-  section.innerHTML += attendee.whatsapp
-    ? attendeeLink(`https://wa.me/${attendee.whatsapp.slice(1)}`, 'whatsapp')
-    : '';
   ['website', 'linkedin', 'facebook'].forEach((type) => {
     section.innerHTML += attendee[type]
       ? attendeeLink(attendee[type], type)
       : '';
   });
-  ['github', 'twitter', 'instagram'].forEach((type) => {
+  ['twitter', 'github', 'instagram'].forEach((type) => {
     section.innerHTML += attendee[type]
       ? attendeeLink(`https://${type}.com/${attendee[type]}`, type)
       : '';
@@ -37,42 +28,8 @@ const appendAttendee = (attendee) => {
   attendeesContainer.appendChild(section);
 };
 
-fetch('/attendees/auwalms.json')
+fetch('/attendees.json')
   .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
-  .catch((error) => console.log(error));
-
-fetch('/attendees/obumnwabude.json')
-  .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
-  .catch((error) => console.log(error));
-
-fetch('/attendees/auwalms.json')
-  .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
-  .catch((error) => console.log(error));
-
-fetch('/attendees/obumnwabude.json')
-  .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
-  .catch((error) => console.log(error));
-
-fetch('/attendees/auwalms.json')
-  .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
-  .catch((error) => console.log(error));
-
-fetch('/attendees/obumnwabude.json')
-  .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
-  .catch((error) => console.log(error));
-
-fetch('/attendees/auwalms.json')
-  .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
-  .catch((error) => console.log(error));
-
-fetch('/attendees/obumnwabude.json')
-  .then((response) => response.json())
-  .then((attendee) => appendAttendee(attendee))
+  .then((attendees) => attendees.slice(1)) // remove the first sample
+  .then((attendees) => attendees.forEach((attendee) => appendAttendee(attendee)))
   .catch((error) => console.log(error));
