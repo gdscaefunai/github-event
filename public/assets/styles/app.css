@@ -42,7 +42,7 @@ body {
   background-color: var(--white);
   color: var(--grey-text);
   font-size: 1rem;
-  max-width: 1200px;
+  max-width: 1024px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -160,7 +160,7 @@ header {
 }
 
 .attendees {
-  max-width: 512px;
+  max-width: 384px;
 }
 
 .attendee {
@@ -198,10 +198,12 @@ header {
 
 main {
   padding: 0px 24px 24px;
+  max-width: 512px;
 }
 
 @media (max-width: 767.98px) {
   header,
+  main,
   .attendees {
     margin-left: auto;
     margin-right: auto;
@@ -219,33 +221,34 @@ main {
     width: 40%;
   }
 
+  main {
+    padding-top: 0.1px;
+  }
+
   .attendees__intro {
     background-color: var(--white);
     box-shadow: 0px 1px var(--grey);
     padding-top: 12px;
+    padding-left: 16px;
     width: 100%;
-    max-width: 658px;
-  }
-
-  main {
-    padding-top: 24px;
+    max-width: 478px;
   }
 
   .attendees {
     padding: 16px;
     overflow: auto;
     margin-left: 32px;
-    margin-top: 64px;
+    margin-top: 96px;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1199.98px) {
+@media (min-width: 768px) and (max-width: 1023.98px) {
   main {
     margin-left: 40%;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1024px) {
   main {
     margin-left: 512px;
   }
