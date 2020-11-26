@@ -8,5 +8,15 @@
     "twitter": "Your Twitter Username",
     "github": "Your Github Username",
     "instagram": "Your Instagram Username"
+  },
+  {
+    "name": "Auwal MS",
+    "dsc": "DSC SSA",
+    "website": "https://auwalms.com",
+    "linkedin": "https://linkedin.com/in/auwalms",
+    "facebook": "https://facebook.com/auwalms",
+    "twitter": "auwalms",
+    "github": "auwalms",
+    "instagram": "auwalms"
   }
 ]
