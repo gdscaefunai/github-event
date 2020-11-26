@@ -11,12 +11,22 @@
   },
   {
     "name": "Auwal MS",
-    "dsc": "DSC SSA",
+    "dsc": "SSA",
     "website": "https://auwalms.com",
     "linkedin": "https://linkedin.com/in/auwalms",
     "facebook": "https://facebook.com/auwalms",
     "twitter": "auwalms",
     "github": "auwalms",
     "instagram": "auwalms"
+  },
+  {
+    "name": "Obumuneme Nwabude",
+    "dsc": "AE-FUNAI",
+    "website": "https://obumnwabude.com",
+    "linkedin": "https://linkedin.com/in/obumnwabude",
+    "facebook": "https://facebook.com/obumnwabude",
+    "twitter": "obumnwabude",
+    "github": "obumnwabude",
+    "instagram": "obumnwabude"
   }
 ]
