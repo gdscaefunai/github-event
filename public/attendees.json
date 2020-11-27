@@ -68,12 +68,8 @@
     "twitter": "u_ephraim",
     "github": "Leo-Chan01",
     "instagram": "ephraimleo16"
-
   },
-  
-
   {
-
     "name": "Onyeani Chinwendu",
     "dsc": "AE-FUNAI",
     "website": "",
@@ -82,13 +78,25 @@
     "twitter": "ecstasywonder",
     "github": "ecstasywonder",
     "instagram": "ecstacy_wonder"
-    
+  },
+  {
+    "name": "Ifeanyichukwu John",
+    "dsc": "AE FUNAI",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/ifeanyichukwu-john-a1a8b5198",
+    "facebook": "https://www.facebook.com/ifeanyi.onwe.773",
+    "twitter": "ifeanyichukwu_j",
+    "github": "john-bull5",
+    "instagram": ""
+  },
+  {
+    "name": "Hammed Babatunde idris",
+    "dsc": "UNILAG",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/hammed-babatunde-idris-1a2208148/",
+    "facebook": "",
+    "twitter": "dev_babs",
+    "github": "HammedBabatunde",
+    "instagram": "HammedBabatunde"
   }
-    
-
-    
-
-    
-
-  
 ]
