@@ -1,7 +1,7 @@
 [
   {
     "name": "Your Name",
-    "dsc": "Your School (Abbreviated)",
+    "dsnamec": "Your School (Abbreviated)",
     "website": "https://example.com",
     "linkedin": "https://linkedin.com/xx/xxx",
     "facebook": "https://facebook.com/xxx",
@@ -69,5 +69,26 @@
     "github": "Leo-Chan01",
     "instagram": "ephraimleo16"
 
+  },
+  
+
+  {
+
+    "name": "Onyeani Chinwendu Okorie",
+    "dsc": "AE-FUNAI",
+    "website": "",
+    "linkedin": "https://linkedin.com/in/chinwendu onyeani",
+    "facebook": "https://facebook.com/Chinwendu.Onyeani",
+    "twitter": "ecstasywonder",
+    "github": "ecstasywonder",
+    "instagram": "ecstacy_wonder"
+    
   }
+    
+
+    
+
+    
+
+  
 ]
