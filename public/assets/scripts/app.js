@@ -13,23 +13,40 @@ const attendeeLink = (url, type) =>
 const appendAttendee = (attendee) => {
   const section = document.createElement('section');
   section.classList.add('attendee');
-  section.innerHTML = `<h3 class="attendee__name">${attendee.name}</h3>
-  <p class="attendee__dsc">DSC ${attendee.dsc}</p>`;
-  ['website', 'linkedin', 'facebook'].forEach((type) => {
-    section.innerHTML += attendee[type]
-      ? attendeeLink(attendee[type], type)
-      : '';
-  });
-  ['twitter', 'github', 'instagram'].forEach((type) => {
-    section.innerHTML += attendee[type]
-      ? attendeeLink(`https://${type}.com/${attendee[type]}`, type)
-      : '';
-  });
-  attendeesContainer.appendChild(section);
+
+  let additionError = new Error('');
+  try {
+    const {name, dsc} = attendee;
+    if ([name, dsc].includes(undefined)) {
+      throw new Error(`Name and DSC are compulsory \n${JSON.stringify(attendee)}`);
+    }
+
+    section.innerHTML = `<h3 class="attendee__name">${name}</h3>
+    <p class="attendee__dsc">DSC ${dsc}</p>`;
+
+    ['website', 'linkedin', 'facebook'].forEach((type) => {
+      section.innerHTML += attendee[type]
+        ? attendeeLink(attendee[type], type)
+        : '';
+    });
+
+    ['twitter', 'github', 'instagram'].forEach((type) => {
+      section.innerHTML += attendee[type]
+        ? attendeeLink(`https://${type}.com/${attendee[type]}`, type)
+        : '';
+    });
+  } catch (error) {
+    additionError = error;
+    console.error(error);
+  } finally {    
+    if (!(/compulsory/.test(additionError.message))) {
+      attendeesContainer.appendChild(section);
+    }
+  }
 };
 
 fetch('/attendees.json')
   .then((response) => response.json())
   .then((attendees) => attendees.slice(1)) // remove the first sample
   .then((attendees) => attendees.forEach((attendee) => appendAttendee(attendee)))
-  .catch((error) => console.log(error));
+  .catch((error) => console.error(error));
