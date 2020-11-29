@@ -36,7 +36,7 @@ Having attended the event at https://youtu.be/uf12u9keG10, send your pull reques
 #### Note:  
 If you don't have any of the social media, please delete the sample value for that social media and leave the quotation marks empty.
 
-7. At the bottom pages, type the following as commit message with your name instead
+7. At the bottom of the page, type the following as the title of your commit message with your name instead
 ```
     YOUR-NAME attended the DSC Github Event
 ```
@@ -48,7 +48,12 @@ If you don't have any of the social media, please delete the sample value for th
     https://github.com/DSC-AEFUNAI/github-event/compare/main...YOUR-GITHUB-USERNAME:main
 ```
 
-10. Click on the green `Create pull request` button.
+10. At the top of the page, type the following as the title of your pull request with your name instead
+```
+    YOUR-NAME attended the DSC Github Event
+```
+
+11. Click on the green `Create pull request` button.
 
 ### Hooray!!!
 You have just made a pull request, it will be merged later on and your name will reflect on the event site at https://githubevent.web.app
