@@ -130,7 +130,7 @@
   },
   {
     "name": "Festus Ali",
-    "dsc": "AE-FUNAI)",
+    "dsc": "AE-FUNAI",
     "website": "https://simpleportfolio.pythonanywhere.com/user/festus/",
     "linkedin": "https://www.linkedin.com/in/festus-ali",
     "facebook": "https://m.facebook.com/festus.ali.560",
@@ -138,4 +138,14 @@
     "github": "Festusali",
     "instagram": ""
   },
+  {
+    "name": "Joshua Adewole",
+    "dsc": "UNILAG",
+    "website": "https://adewolejosh.herokuapp.com",
+    "linkedin": "https://linkedin.com/in/joshua-adewole/",
+    "facebook": "https://facebook.com/adewole.josh/",
+    "twitter": "adewole_josh",
+    "github": "adewolejosh",
+    "instagram": "kunmi.aj"
+  }
 ]
