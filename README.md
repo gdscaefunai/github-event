@@ -5,7 +5,7 @@ This repo was used for the hands-on-practical session during the "Intro to Versi
 All attendees who made pull requests to this repo can be found on https://githubevent.web.app
 
 ## Attendee Instructions
-Having attended the event at https://youtu.be/ZVtSKBNxnAc, send your pull request to get your name on the event site at https://githubevent.web.app. Carryout the following instructions, to make your pull request. If you do not have a GitHub account, first create one [here](https://github.com/join).
+Having attended the event at https://youtu.be/uf12u9keG10, send your pull request to get your name on the event site at https://githubevent.web.app. Carryout the following instructions, to make your pull request. If you do not have a GitHub account, first create one [here](https://github.com/join).
 
 1. [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) this [repository](https://github.com/DSC-AEFUNAI/github-event) by clicking on **Fork** at the top right corner of this page (Be sure you are viewing this README from github.com and as a desktop site).
 
