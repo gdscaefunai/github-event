@@ -159,6 +159,7 @@ header {
   text-decoration-color: var(--green-core);
 }
 
+.header__event-date,
 .header__event-link,
 .header__speaker-link {
   color: var(--black);

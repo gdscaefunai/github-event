@@ -5,7 +5,7 @@ This repo was used for the hands-on-practical session during the "Intro to Versi
 All attendees who made pull requests to this repo can be found on https://githubevent.web.app
 
 ## Attendee Instructions
-Having attended the event at https://youtu.be/ZVtSKBNxnAc, send your pull request to get your name on the event site at https://githubevent.web.app. Carryout the following instructions, to make your pull request. If you do not have a GitHub account, first create one [here](https://github.com/join).
+Having attended the event at https://youtu.be/uf12u9keG10, send your pull request to get your name on the event site at https://githubevent.web.app. Carryout the following instructions, to make your pull request. If you do not have a GitHub account, first create one [here](https://github.com/join).
 
 1. [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) this [repository](https://github.com/DSC-AEFUNAI/github-event) by clicking on **Fork** at the top right corner of this page (Be sure you are viewing this README from github.com and as a desktop site).
 
@@ -36,7 +36,7 @@ Having attended the event at https://youtu.be/ZVtSKBNxnAc, send your pull reques
 #### Note:  
 If you don't have any of the social media, please delete the sample value for that social media and leave the quotation marks empty.
 
-7. At the bottom pages, type the following as commit message with your name instead
+7. At the bottom of the page, type the following as the title of your commit message with your name instead
 ```
     YOUR-NAME attended the DSC Github Event
 ```
@@ -48,7 +48,12 @@ If you don't have any of the social media, please delete the sample value for th
     https://github.com/DSC-AEFUNAI/github-event/compare/main...YOUR-GITHUB-USERNAME:main
 ```
 
-10. Click on the green `Create pull request` button.
+10. At the top of the page, type the following as the title of your pull request with your name instead
+```
+    YOUR-NAME attended the DSC Github Event
+```
+
+11. Click on the green `Create pull request` button.
 
 ### Hooray!!!
 You have just made a pull request, it will be merged later on and your name will reflect on the event site at https://githubevent.web.app

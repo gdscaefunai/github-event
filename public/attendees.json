@@ -87,7 +87,8 @@
     "facebook": "",
     "twitter": "Obiorauche73",
     "github": "ObioraU",
-    "instagram": "Itzlordnikon"  },
+    "instagram": "Itzlordnikon"
+  },
   {
     "name": "Onyeani Chinwendu",
     "dsc": "AE-FUNAI",
@@ -119,7 +120,7 @@
     "instagram": "HammedBabatunde"
   },
   {
-    "name":"Alwell ThankGod Chisom",
+    "name": "Alwell ThankGod Chisom",
     "dsc": "AE-FUNAI",
     "website": "",
     "linkedin": "",
@@ -129,6 +130,16 @@
     "instagram": "Alwellthankgod"
   },
   {
+    "name": "Festus Ali",
+    "dsc": "AE-FUNAI",
+    "website": "https://simpleportfolio.pythonanywhere.com/user/festus/",
+    "linkedin": "https://www.linkedin.com/in/festus-ali",
+    "facebook": "https://m.facebook.com/festus.ali.560",
+    "twitter": "alifestus",
+    "github": "Festusali",
+    "instagram": ""
+  },
+  {
     "name": "Joshua Adewole",
     "dsc": "UNILAG",
     "website": "https://adewolejosh.herokuapp.com",
@@ -136,14 +147,25 @@
     "facebook": "https://facebook.com/adewole.josh/",
     "twitter": "adewole_josh",
     "github": "adewolejosh",
-    "instagram": "kunmi.aj",
+    "instagram": "kunmi.aj"
   },
   {  
     "name": "Josemaria Odumodu",
-    "dsc": "UNIZIK",   
+    "dsc": "UNIZIK",
+    "website": "",
     "linkedin": "https://linkedin.com/in/dejosemario/",
     "facebook": "https://facebook.com/josemaria.odumodu.9/",
     "twitter": "dejosemario1",
     "github": "dejosemaro1",
+    "instagram": ""
+  },
+  {
+    "name": "Yasser Goumghar",
+    "dsc": "Mohammed 5 High School",
+    "website": "https://yassergmr.com",
+    "linkedin": "https://www.linkedin.com/in/yasser-goumghar/",
+    "twitter": "iKarasumaRenya",
+    "github": "YasserGmr",
+    "instagram": ""
   }
 ]
