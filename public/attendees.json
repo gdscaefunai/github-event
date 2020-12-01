@@ -43,7 +43,7 @@
     "name": "Godstime Onyibe",
     "dsc": "AE-FUNAI",
     "website": "",
-    "linkedin": "https://www.linkedin.com/in/godstime-onyibe-357523181/",
+    "linkedin": "https://linkedin.com/in/godstime-onyibe-357523181/",
     "facebook": "https://facebook.com/Godstimeonyibelawrence",
     "twitter": "GodstimeOnyibe",
     "github": "Godstyme",
@@ -53,8 +53,8 @@
     "name": "Avoaja Joshua",
     "dsc": "AE-FUNAI",
     "website": "",
-    "linkedin": "https://www.linkedin.com/in/avoaja-joshua-879503142",
-    "facebook": "https://www.facebook.com/joshua.akachi.9",
+    "linkedin": "https://linkedin.com/in/avoaja-joshua-879503142",
+    "facebook": "https://facebook.com/joshua.akachi.9",
     "twitter": "AvoajaJoshua",
     "github": "joshDamian",
     "instagram": ""
@@ -63,7 +63,7 @@
     "name": "Abba Vincent Ihechikara",
     "dsc": "AE-FUNAI",
     "website": "https://myportfolio-354d1.web.app/",
-    "linkedin": "https://www.linkedin.com/in/ihechikara-abba-983a411b9",
+    "linkedin": "https://linkedin.com/in/ihechikara-abba-983a411b9",
     "facebook": "https://facebook.com/abbavincent.ihechikara",
     "twitter": "ihechikara2",
     "github": "ihechikara",
@@ -103,8 +103,8 @@
     "name": "Ifeanyichukwu John",
     "dsc": "AE FUNAI",
     "website": "",
-    "linkedin": "https://www.linkedin.com/in/ifeanyichukwu-john-a1a8b5198",
-    "facebook": "https://www.facebook.com/ifeanyi.onwe.773",
+    "linkedin": "https://linkedin.com/in/ifeanyichukwu-john-a1a8b5198",
+    "facebook": "https://facebook.com/ifeanyi.onwe.773",
     "twitter": "ifeanyichukwu_j",
     "github": "john-bull5",
     "instagram": ""
@@ -113,7 +113,7 @@
     "name": "Hammed Babatunde idris",
     "dsc": "UNILAG",
     "website": "",
-    "linkedin": "https://www.linkedin.com/in/hammed-babatunde-idris-1a2208148/",
+    "linkedin": "https://linkedin.com/in/hammed-babatunde-idris-1a2208148/",
     "facebook": "",
     "twitter": "dev_babs",
     "github": "HammedBabatunde",
@@ -124,7 +124,7 @@
     "dsc": "AE-FUNAI",
     "website": "",
     "linkedin": "",
-    "facebook": "https://www.facebook.com/rickson.owell",
+    "facebook": "https://facebook.com/rickson.owell",
     "twitter": "alwellthankgod",
     "github": "Alwellthankgod",
     "instagram": "Alwellthankgod"
@@ -133,8 +133,8 @@
     "name": "Festus Ali",
     "dsc": "AE-FUNAI",
     "website": "https://simpleportfolio.pythonanywhere.com/user/festus/",
-    "linkedin": "https://www.linkedin.com/in/festus-ali",
-    "facebook": "https://m.facebook.com/festus.ali.560",
+    "linkedin": "https://linkedin.com/in/festus-ali",
+    "facebook": "https://facebook.com/festus.ali.560",
     "twitter": "alifestus",
     "github": "Festusali",
     "instagram": ""
@@ -163,9 +163,20 @@
     "name": "Yasser Goumghar",
     "dsc": "Mohammed 5 High School",
     "website": "https://yassergmr.com",
-    "linkedin": "https://www.linkedin.com/in/yasser-goumghar/",
+    "linkedin": "https://linkedin.com/in/yasser-goumghar/",
+    "facebook": "",
     "twitter": "iKarasumaRenya",
     "github": "YasserGmr",
     "instagram": ""
+  }
+  {
+    "name": "Anosike Benedict",
+    "dsc": "AE-FUNAI",
+    "website": "",
+    "linkedin": "https://linkedin.com/in/anosike-benedict-4036951b9/",
+    "facebook": "https://facebook.com/anosike.benedict",
+    "twitter": "humbleprezzy",
+    "github": "benedict291",
+    "instagram": "anosikebenedict"
   }
 ]
