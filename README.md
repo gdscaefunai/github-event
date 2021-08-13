@@ -1,13 +1,13 @@
 # Intro to Version Control | Git and Github
 
-This repo was used for the hands-on-practical session during the "Intro to Version Control | Git and Github" event by [DSC AE-FUNAI](https://dsc.community.dev/federal-university-ndufu-alike-ikwo-funai/), [DSC FULOKOJA](https://dsc.community.dev/federal-university-lokoja-kogi-state/), [DSC FUTO](https://dsc.community.dev/federal-university-of-technology-owerri/), [DSC MUBS](https://dsc.community.dev/makerere-university-business-school/), [DSC Nekede](https://dsc.community.dev/federal-polytechnic-nekede/) and [DSC UICT](https://dsc.community.dev/uganda-institute-of-information-and-communications-technology/).
+This repo was used for the hands-on-practical session during the "Intro to Version Control | Git and Github" event by [GDSC AE-FUNAI](https://gdsc.community.dev/federal-university-ndufu-alike-ikwo-funai/), [GDSC FULOKOJA](https://gdsc.community.dev/federal-university-lokoja-kogi-state/), [GDSC FUTO](https://gdsc.community.dev/federal-university-of-technology-owerri/), [GDSC MUBS](https://gdsc.community.dev/makerere-university-business-school/), [GDSC Nekede](https://gdsc.community.dev/federal-polytechnic-nekede/) and [GDSC UICT](https://gdsc.community.dev/uganda-institute-of-information-and-communications-technology/).
 
 All attendees who made pull requests to this repo can be found on https://githubevent.web.app
 
 ## Attendee Instructions
 Having attended the event at https://youtu.be/uf12u9keG10, send your pull request to get your name on the event site at https://githubevent.web.app. Carryout the following instructions, to make your pull request. If you do not have a GitHub account, first create one [here](https://github.com/join).
 
-1. [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) this [repository](https://github.com/DSC-AEFUNAI/github-event) by clicking on **Fork** at the top right corner of this page (Be sure you are viewing this README from github.com and as a desktop site).
+1. [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) this [repository](https://github.com/gdscaefunai/github-event) by clicking on **Fork** at the top right corner of this page (Be sure you are viewing this README from github.com and as a desktop site).
 
 2. In your fork, Go to the [`attendees.json`](public/attendees.json) file, found in the `public` folder.
 
@@ -17,7 +17,7 @@ Having attended the event at https://youtu.be/uf12u9keG10, send your pull reques
 ```
   {
     "name": "Your Name",
-    "dsc": "Your School (Abbreviated)",
+    "gdsc": "Your School (Abbreviated)",
     "website": "https://example.com",
     "linkedin": "https://linkedin.com/xx/xxx",
     "facebook": "https://facebook.com/xxx",
@@ -31,26 +31,26 @@ Having attended the event at https://youtu.be/uf12u9keG10, send your pull reques
 
 5. On the new line, paste the sample you just copied.
 
-6. Edit the values with yours, please verify that they are correct. `name` and `dsc` are compulsory.  
+6. Edit the values with yours, please verify that they are correct. `name` and `gdsc` are compulsory.  
 
 #### Note:  
 If you don't have any of the social media, please delete the sample value for that social media and leave the quotation marks empty.
 
 7. At the bottom of the page, type the following as the title of your commit message with your name instead
 ```
-    YOUR-NAME attended the DSC Github Event
+    YOUR-NAME attended the GDSC Github Event
 ```
 
 8. Click on the green `Commit changes` button.
 
 9. Visit the following link on a new tab, be sure to use your github username instead (don't delete the three full stops).
 ```
-    https://github.com/DSC-AEFUNAI/github-event/compare/main...YOUR-GITHUB-USERNAME:main
+    https://github.com/gdscaefunai/github-event/compare/main...YOUR-GITHUB-USERNAME:main
 ```
 
 10. At the top of the page, type the following as the title of your pull request with your name instead
 ```
-    YOUR-NAME attended the DSC Github Event
+    YOUR-NAME attended the GDSC Github Event
 ```
 
 11. Click on the green `Create pull request` button.
