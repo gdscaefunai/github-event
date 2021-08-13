@@ -16,13 +16,13 @@ const appendAttendee = (attendee) => {
 
   let additionError = new Error('');
   try {
-    const {name, dsc} = attendee;
+    const {name, gdsc} = attendee;
     if ([name, dsc].includes(undefined)) {
-      throw new Error(`Name and DSC are compulsory \n${JSON.stringify(attendee)}`);
+      throw new Error(`Name and GDSC are compulsory \n${JSON.stringify(attendee)}`);
     }
 
     section.innerHTML = `<h3 class="attendee__name">${name}</h3>
-    <p class="attendee__dsc">DSC ${dsc}</p>`;
+    <p class="attendee__dsc">GDSC ${gdsc}</p>`;
 
     ['website', 'linkedin', 'facebook'].forEach((type) => {
       section.innerHTML += attendee[type]

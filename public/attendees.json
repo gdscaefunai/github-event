@@ -1,7 +1,7 @@
 [
   {
     "name": "Your Name",
-    "dsc": "Your School (Abbreviated)",
+    "gdsc": "Your School (Abbreviated)",
     "website": "https://example.com",
     "linkedin": "https://linkedin.com/xx/xxx",
     "facebook": "https://facebook.com/xxx",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Auwal MS",
-    "dsc": "SSA",
+    "gdsc": "SSA",
     "website": "https://auwalms.com",
     "linkedin": "https://linkedin.com/in/auwalms",
     "facebook": "https://facebook.com/auwalms",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Obumuneme Nwabude",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "https://obumnwabude.com",
     "linkedin": "https://linkedin.com/in/obumnwabude",
     "facebook": "https://facebook.com/obumnwabude",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Hilary Ogochukwu",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "",
     "facebook": "https://facebook.com/hilaryohilary",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Godstime Onyibe",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "https://linkedin.com/in/godstime-onyibe-357523181/",
     "facebook": "https://facebook.com/Godstimeonyibelawrence",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Avoaja Joshua",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "https://linkedin.com/in/avoaja-joshua-879503142",
     "facebook": "https://facebook.com/joshua.akachi.9",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Abba Vincent Ihechikara",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "https://myportfolio-354d1.web.app/",
     "linkedin": "https://linkedin.com/in/ihechikara-abba-983a411b9",
     "facebook": "https://facebook.com/abbavincent.ihechikara",
@@ -71,7 +71,7 @@
   },
   {
     "name": "Umunnakwe Ephraim",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "https://linkedin.com/in/ephraimumunnakwe100",
     "facebook": "",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Obiora Uchenna Emmanuel",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "https://linkedin.com/in/obiora-emmanuel-b972191aa",
     "facebook": "",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Onyeani Chinwendu",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "https://linkedin.com/in/chinwendu onyeani",
     "facebook": "https://facebook.com/Chinwendu.Onyeani",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Ifeanyichukwu John",
-    "dsc": "AE FUNAI",
+    "gdsc": "AE FUNAI",
     "website": "",
     "linkedin": "https://linkedin.com/in/ifeanyichukwu-john-a1a8b5198",
     "facebook": "https://facebook.com/ifeanyi.onwe.773",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Hammed Babatunde idris",
-    "dsc": "UNILAG",
+    "gdsc": "UNILAG",
     "website": "",
     "linkedin": "https://linkedin.com/in/hammed-babatunde-idris-1a2208148/",
     "facebook": "",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Alwell ThankGod Chisom",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "",
     "facebook": "https://facebook.com/rickson.owell",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Festus Ali",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "https://simpleportfolio.pythonanywhere.com/user/festus/",
     "linkedin": "https://linkedin.com/in/festus-ali",
     "facebook": "https://facebook.com/festus.ali.560",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Joshua Adewole",
-    "dsc": "UNILAG",
+    "gdsc": "UNILAG",
     "website": "https://adewolejosh.herokuapp.com",
     "linkedin": "https://linkedin.com/in/joshua-adewole/",
     "facebook": "https://facebook.com/adewole.josh/",
@@ -151,7 +151,7 @@
   },
   {  
     "name": "Josemaria Odumodu",
-    "dsc": "UNIZIK",
+    "gdsc": "UNIZIK",
     "website": "",
     "linkedin": "https://linkedin.com/in/dejosemario/",
     "facebook": "https://facebook.com/josemaria.odumodu.9/",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Yasser Goumghar",
-    "dsc": "Mohammed 5 High School",
+    "gdsc": "Mohammed 5 High School",
     "website": "https://yassergmr.com",
     "linkedin": "https://linkedin.com/in/yasser-goumghar/",
     "facebook": "",
@@ -171,7 +171,7 @@
   },
   {
     "name": "Anosike Benedict",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "https://linkedin.com/in/anosike-benedict-4036951b9/",
     "facebook": "https://facebook.com/anosike.benedict",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Utobo Tochukwu Silas",
-    "dsc": "AE-FUNAI",
+    "gdsc": "AE-FUNAI",
     "website": "",
     "linkedin": "",
     "facebook": "https://facebook.com/silasroneto",
