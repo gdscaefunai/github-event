@@ -17,7 +17,7 @@ const appendAttendee = (attendee) => {
   let additionError = new Error('');
   try {
     const {name, gdsc} = attendee;
-    if ([name, dsc].includes(undefined)) {
+    if ([name, gdsc].includes(undefined)) {
       throw new Error(`Name and GDSC are compulsory \n${JSON.stringify(attendee)}`);
     }
 
